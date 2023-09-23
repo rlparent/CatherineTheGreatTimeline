@@ -1,0 +1,46 @@
+h1 {
+    text-decoration: underline;
+  }
+  
+  .img1 {
+    border: solid 5px gray;
+    height: 350px;
+    width: 275px;
+    border-radius: 20px;
+    padding: 10px;
+  }
+  
+  .img2 {
+    margin: 0 0 0 30px;
+    border: solid 5px gray;
+    height: 350px;
+    width: 275px;
+    border-radius: 20px;
+    padding: 10px;
+  }
+  
+  .imgcaption1 {
+    width: 55%;
+    height: 20px;
+    font-style: italic;
+    display: inline-block;
+    margin-left: 60px;
+  }
+  
+  .imgcaption2 {
+    width: 30%;
+    float: right;
+    height: 20px;
+    font-style: italic;
+    position: relative;
+    right: 110px;
+  }
+  
+  body {
+    background-color: cornsilk;
+  }
+  
+  button {
+    border: solid 2px gray;
+    font-weight: bold;
+  }
